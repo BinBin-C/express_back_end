@@ -1,0 +1,5 @@
+# 忽略任何目录下名为 node_modules 的文件夹
+node_modules/
+
+# 忽略 package-lock.json 文件
+package-lock.json
